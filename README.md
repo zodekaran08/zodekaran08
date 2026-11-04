@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F80000,100:312D2A&height=200&section=header&text=Saurabh%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Oracle%20APEX%20Developer&descSize=20&descAlignY=58" width="100%" alt="Saurabh Singh - Oracle APEX Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F80000,100:312D2A&height=200&section=header&text=Karan%20Zode&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Oracle%20APEX%20Developer&descSize=20&descAlignY=58" width="100%" alt="Saurabh Singh - Oracle APEX Developer" />
 
 <!-- Animated typing intro (replaces the old GIF) -->
 <h3 align="center">
