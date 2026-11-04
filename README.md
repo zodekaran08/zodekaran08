@@ -14,7 +14,7 @@
 </h1>
 
 <h3 align="center">
-  Software Specialist | Oracle APEX Developer
+  Software Specialist | Oracle APEX & PL/SQL Developer | Oracle Database | ERP Application Development
 </h3>
 
 <p align="center">
